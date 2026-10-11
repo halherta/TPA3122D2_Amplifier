@@ -2,7 +2,7 @@
 
 A stereo 15W + 15W, all through-hole Class D amplifier board built around the Texas Instruments [TPA3122D2](https://www.ti.com/lit/ds/symlink/tpa3122d2.pdf), designed in KiCad. The board is also compatible with the pin-compatible [TPA3125D2](https://www.ti.com/lit/ds/symlink/tpa3125d2.pdf) (10W stereo).
 
-<img src="https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierPhoto-850x775.jpg" Alt="Board Photo" width="500" />
+<img src="https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_AmplifierPhoto.jpg" Alt="Board Photo" width="500" />
 
 ## Overview
 
@@ -35,7 +35,7 @@ The schematic closely follows the recommended application circuit in the TPA3122
 
 | Schematic | Layout | 3D View |
 |---|---|---|
-| [Schematic](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.png) | ![Layout](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierLayout-1024x962.png) | ![3D view](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_Amplifier3D-943x1024.png) |
+| [Schematic](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_AmplifierSchematic.png) | ![Layout](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_AmplifierLayout.png)) | ![3D view](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier3D.png) |
 
 ## Repository Contents
 
@@ -48,7 +48,6 @@ The schematic closely follows the recommended application circuit in the TPA3122
 | `Gerbers/` | Gerber and drill files for fabrication |
 | `TPA3122D2LatestGerbers.zip` | Zipped Gerbers, ready to upload to a PCB fab |
 | `DigikeyBom/` | Bill of materials for ordering from Digi-Key |
-| `TPA3122D2_Amplifier-backups/` | KiCad automatic project backups |
 | `fp-info-cache` | KiCad footprint library cache |
 
 ## Getting Started
