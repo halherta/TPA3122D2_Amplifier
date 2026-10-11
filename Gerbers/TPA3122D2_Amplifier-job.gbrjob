@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.5"
+      "Version": "10.0.4-10.0.4~ubuntu24.04.1"
     },
-    "CreationDate": "2024-09-22T22:57:25-04:00"
+    "CreationDate": "2026-08-15T00:28:30-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "TPA3122D2_Amplifier",
       "GUID": "54504133-3132-4324-9432-5f416d706c69",
-      "Revision": "rev?"
+      "Revision": "v0.2"
     },
     "Size": {
       "X": 80.05,
@@ -41,16 +41,6 @@
     {
       "Path": "TPA3122D2_Amplifier-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "TPA3122D2_Amplifier-F_Paste.gtp",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "TPA3122D2_Amplifier-B_Paste.gbp",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
