@@ -35,7 +35,7 @@ The schematic closely follows the recommended application circuit in the TPA3122
 
 | Schematic | Layout | 3D View |
 |---|---|---|
-| [Schematic (SVG)](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/TPA3122D2_Amplifier.svg) | ![Layout](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierLayout-1024x962.png) | ![3D view](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_Amplifier3D-943x1024.png) |
+| [Schematic](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.png) | ![Layout](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierLayout-1024x962.png) | ![3D view](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_Amplifier3D-943x1024.png) |
 
 ## Repository Contents
 
