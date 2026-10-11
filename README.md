@@ -37,8 +37,9 @@ The schematic closely follows the recommended application circuit in the TPA3122
 |---|---|---|
 | [Schematic](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_AmplifierSchematic.png) | ![Layout](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_AmplifierLayout.png) | ![3D view](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier3D.png) |
 
-[high quality version of the schematic (pdf)](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.pdf)
-[high quality version of the schematic (svg)](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.svg)
+- [high quality version of the schematic (pdf)](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.pdf)
+- [high quality version of the schematic (svg)](https://github.com/halherta/TPA3122D2_Amplifier/blob/main/images/TPA3122D2_Amplifier.svg)
+  
 ## Repository Contents
 
 | Path | Description |
