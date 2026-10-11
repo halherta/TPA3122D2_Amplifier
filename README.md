@@ -2,7 +2,7 @@
 
 A stereo 15W + 15W, all through-hole Class D amplifier board built around the Texas Instruments [TPA3122D2](https://www.ti.com/lit/ds/symlink/tpa3122d2.pdf), designed in KiCad. The board is also compatible with the pin-compatible [TPA3125D2](https://www.ti.com/lit/ds/symlink/tpa3125d2.pdf) (10W stereo).
 
-![Board photo](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierPhoto-850x775.jpg)
+![Board photo](https://hussamtalkstech.com/wp-content/uploads/TPA3122D2_AmplifierPhoto-850x775.jpg | | width=500)
 
 ## Overview
 
